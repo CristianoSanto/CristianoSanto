@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+from __future__ import annotations
 class studying:
 
     def __init__(self):
@@ -23,5 +24,5 @@ class studying:
         
 💬 Estatísticas de estudo diário: 
     
-Python                   2 hr 00 mins       ██████████████████ 31.85% 
+Python                  02 hr 00 mins       ██████████████████ 31.85% 
 BashScript              50 mins             ██████████████████ 10.05%
