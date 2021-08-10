@@ -1,16 +1,22 @@
-### Hi there 👋
+#!/usr/bin/python
 
-<!--
-**extremecrrs/extremecrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class studying:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Cristiano Rodrigues"
+        self.username  =  'Extreme' 
+        self.tools = [ 'GIT' ,'GitHub' , 'GitLab', 'Jupyter notebook', 'Pydroid3' , 'Termux' ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.role = "Student"
+        self.language_spoken: ["Technical English"]
+
+                 self.technical_interests = ["Shell Script", "Word Press", "Linux", 
+                                                   "Ubuntu", "Kali", "Pentest", "OS", "Termux"]
+
+
+      Self.Hobbies = [ "Games", "Filmes_em_casa", "Estudar_programção", 
+          " Ouvir _Musicas " , "Fuçar na internet"]
+
+
+    def say_hi(self):
+        print("Estou disposto a dar o melhor de mim para conquistar meus objetivos")
