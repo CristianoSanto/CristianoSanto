@@ -40,7 +40,6 @@ Busco dia após dia obter mais conhecimento e colocar em prática tudo aquilo qu
   
   
 <div>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e4724r849cemoqqiqbe2s63q4nr0cfncd94l5usl1ap&rid=giphy.gif&ct=g" width="400" height="300"/>
     <img src="https://cdn.dribbble.com/users/2000228/screenshots/6833456/gif_cloud.gif" width="400" height="300"/>
     
 </div>
