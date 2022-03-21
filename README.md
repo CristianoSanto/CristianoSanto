@@ -38,11 +38,9 @@ Busco dia após dia obter mais conhecimento e colocar em prática tudo aquilo qu
   
   
   
-  
-<div>
-    <img src="https://cdn.dribbble.com/users/2000228/screenshots/6833456/gif_cloud.gif" width="400" height="300"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSanto&theme=tokyonight) <img src="https://cdn.dribbble.com/users/2000228/screenshots/6833456/gif_cloud.gif" width="400" height="300"/>
     
-</div>
+
 
   
   
