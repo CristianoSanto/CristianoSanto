@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mim:
 ``` 
-🌱 Olá, meu nome é Crisiano e atualmente estou me desenvolvendo em Cloud, Python e Linux.
+🌱 Olá, meu nome é Crisiano e atualmente estou me desenvolvendo em Cloud, Python, Linux e Java.
 Busco dia após dia obter mais conhecimento e colocar em prática tudo aquilo que tenho aprendido.
 ```
 
@@ -38,7 +38,7 @@ Busco dia após dia obter mais conhecimento e colocar em prática tudo aquilo qu
   
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSanto&theme=tokyonight) <img src="https://cdn.dribbble.com/users/2000228/screenshots/6833456/gif_cloud.gif" width="400" height="300"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSanto&theme=tokyonight)   <img src="https://cdn.dribbble.com/users/2000228/screenshots/6833456/gif_cloud.gif" width="400" height="300"/>
     
 
 
@@ -58,7 +58,7 @@ Busco dia após dia obter mais conhecimento e colocar em prática tudo aquilo qu
 
 
 
-![ github stats](https://github-readme-stats.vercel.app/api?username=CristianoSanto&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) 
+![ github stats](https://github-readme-stats.vercel.app/api?username=CristianoSanto&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)   <img src="https://www.jlcarneiro.com/wp-content/uploads/Image/galleries/java.png" width="300" height="300"/>
                         
                         
 
