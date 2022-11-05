@@ -9,8 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mim:
 ``` 
-🌱 Olá, meu nome é Crisiano e atualmente estou me desenvolvendo em Cloud, Python, Linux e Java.
-Busco dia após dia obter mais conhecimento e colocar em prática tudo aquilo que tenho aprendido.
+🌱 Olá, meu nome é Crisiano e atualmente curso Análise e Desenvolvimento de Sistemas (4° semestre) e me considero um entusiasta em aprender novas tecnologias, pronto para me aventurar e superar novos desafios!
 ```
 
 
