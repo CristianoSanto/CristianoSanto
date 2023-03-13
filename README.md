@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mim:
 ``` 
-🌱 Olá, meu nome é Crisiano e atualmente curso Análise e Desenvolvimento de Sistemas (4° semestre) e me considero um entusiasta em aprender novas tecnologias, pronto para me aventurar e superar novos desafios!
+🌱 Olá, meu nome é Crisiano e atualmente curso Análise e Desenvolvimento de Sistemas (5° semestre) e me considero um entusiasta em aprender novas tecnologias, pronto para me aventurar e superar novos desafios!
 ```
 
 
