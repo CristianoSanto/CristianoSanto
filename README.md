@@ -9,7 +9,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mim:
 ``` 
-🌱 Olá, meu nome é Crisiano e atualmente curso Análise e Desenvolvimento de Sistemas (5° semestre) e me considero um entusiasta em aprender novas tecnologias, pronto para me aventurar e superar novos desafios!
+🌱 Olá, meu nome é Cristiano e Como desenvolvedor web, conheço diversas tecnologias para criação de sites e aplicações online. Atualmente estudo HTML, CSS, JavaScript  e Python, além de frameworks como Django e Flask.
+Uma coisa que me destaca é o meu conhecimento em Linux. Tenho um bom conhecimento do sistema operacional e sei como trabalhar com comandos no terminal, instalação de pacotes, configuração de servidores web e segurança do sistema. 
+Me considero um entusiasta em aprender novas tecnologias, pronto para me aventurar e superar novos desafios!
 ```
 
 
